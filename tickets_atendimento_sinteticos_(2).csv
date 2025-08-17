@@ -1,0 +1,101 @@
+ticket_id;data_criacao;data_fechamento;tempo_resolucao;tipo_solicitacao;canal;prioridade;status;responsavel;satisfacao_cliente
+TKT0001;2025-06-13 03:00:00;2025-06-13 07:00:00;4;Reclamação;Telefone;Baixa;Pendente;Ana;5
+TKT0002;2025-01-23 18:00:00;2025-01-26 01:00:00;55;Suporte técnico;E-mail;Baixa;Fechado;Eduarda;5
+TKT0003;2025-01-07 17:00:00;2025-01-08 19:00:00;26;Feedback;WhatsApp;Baixa;Pendente;Carla;1
+TKT0004;2025-02-10 22:00:00;2025-02-13 05:00:00;55;Reclamação;Chat;Baixa;Em andamento;Ana;1
+TKT0005;2025-04-08 03:00:00;2025-04-10 01:00:00;46;Reclamação;Portal;Baixa;Fechado;Diego;5
+TKT0006;2025-02-01 12:00:00;2025-02-01 23:00:00;11;Feedback;Chat;Alta;Pendente;Carla;5
+TKT0007;2025-02-19 22:00:00;2025-02-20 07:00:00;9;Suporte técnico;Telefone;Média;Fechado;Bruno;1
+TKT0008;2025-04-08 08:00:00;2025-04-10 19:00:00;59;Reclamação;Telefone;Média;Fechado;Carla;1
+TKT0009;2025-06-05 20:00:00;2025-06-06 18:00:00;22;Feedback;Telefone;Baixa;Em andamento;Carla;5
+TKT0010;2025-02-26 21:00:00;2025-02-28 15:00:00;42;Suporte técnico;Telefone;Alta;Em andamento;Diego;3
+TKT0011;2025-01-17 06:00:00;2025-01-18 23:00:00;41;Dúvida;WhatsApp;Média;Pendente;Diego;2
+TKT0012;2025-03-09 04:00:00;2025-03-10 12:00:00;32;Feedback;Portal;Baixa;Pendente;Diego;5
+TKT0013;2025-04-13 11:00:00;2025-04-14 16:00:00;29;Dúvida;Portal;Média;Fechado;Ana;2
+TKT0014;2025-06-10 05:00:00;2025-06-12 12:00:00;55;Feedback;E-mail;Média;Pendente;Diego;5
+TKT0015;2025-03-06 17:00:00;2025-03-06 19:00:00;2;Suporte técnico;Portal;Média;Pendente;Carla;1
+TKT0016;2025-03-17 13:00:00;2025-03-18 10:00:00;21;Solicitação de serviço;E-mail;Alta;Pendente;Carla;5
+TKT0017;2025-02-15 16:00:00;2025-02-16 06:00:00;14;Reclamação;Portal;Média;Fechado;Carla;2
+TKT0018;2025-05-19 16:00:00;2025-05-19 17:00:00;1;Feedback;Chat;Média;Fechado;Carla;3
+TKT0019;2025-03-03 01:00:00;2025-03-04 08:00:00;31;Feedback;E-mail;Baixa;Em andamento;Ana;5
+TKT0020;2025-02-02 04:00:00;2025-02-04 17:00:00;61;Feedback;Telefone;Baixa;Pendente;Diego;2
+TKT0021;2025-05-19 23:00:00;2025-05-21 01:00:00;26;Reclamação;WhatsApp;Alta;Pendente;Carla;4
+TKT0022;2025-05-13 14:00:00;2025-05-14 06:00:00;16;Dúvida;Telefone;Baixa;Fechado;Eduarda;5
+TKT0023;2025-02-28 18:00:00;2025-03-01 23:00:00;29;Suporte técnico;E-mail;Média;Fechado;Bruno;1
+TKT0024;2025-01-09 10:00:00;2025-01-09 20:00:00;10;Feedback;Telefone;Baixa;Em andamento;Bruno;5
+TKT0025;2025-02-03 23:00:00;2025-02-06 12:00:00;61;Dúvida;WhatsApp;Alta;Fechado;Ana;1
+TKT0026;2025-06-18 13:00:00;2025-06-20 11:00:00;46;Solicitação de serviço;WhatsApp;Média;Pendente;Ana;1
+TKT0027;2025-01-16 12:00:00;2025-01-18 08:00:00;44;Suporte técnico;Telefone;Baixa;Pendente;Diego;2
+TKT0028;2025-04-19 05:00:00;2025-04-20 17:00:00;36;Solicitação de serviço;Telefone;Alta;Fechado;Diego;5
+TKT0029;2025-01-26 01:00:00;2025-01-28 23:00:00;70;Suporte técnico;E-mail;Alta;Fechado;Bruno;4
+TKT0030;2025-05-05 15:00:00;2025-05-06 19:00:00;28;Solicitação de serviço;E-mail;Baixa;Fechado;Diego;3
+TKT0031;2025-04-27 09:00:00;2025-04-29 16:00:00;55;Feedback;WhatsApp;Baixa;Em andamento;Bruno;1
+TKT0032;2025-05-29 23:00:00;2025-06-01 21:00:00;70;Suporte técnico;Chat;Baixa;Pendente;Diego;5
+TKT0033;2025-05-16 05:00:00;2025-05-16 13:00:00;8;Feedback;E-mail;Alta;Fechado;Eduarda;1
+TKT0034;2025-06-22 07:00:00;2025-06-24 11:00:00;52;Suporte técnico;Portal;Baixa;Pendente;Ana;5
+TKT0035;2025-01-21 13:00:00;2025-01-24 08:00:00;67;Reclamação;Chat;Baixa;Pendente;Carla;2
+TKT0036;2025-03-09 12:00:00;2025-03-10 05:00:00;17;Reclamação;WhatsApp;Média;Fechado;Ana;4
+TKT0037;2025-06-09 18:00:00;2025-06-10 07:00:00;13;Suporte técnico;Portal;Baixa;Em andamento;Bruno;3
+TKT0038;2025-01-18 07:00:00;2025-01-20 07:00:00;48;Reclamação;Telefone;Média;Pendente;Carla;5
+TKT0039;2025-06-17 16:00:00;2025-06-17 18:00:00;2;Feedback;Chat;Alta;Fechado;Bruno;3
+TKT0040;2025-01-30 03:00:00;2025-02-02 02:00:00;71;Dúvida;Chat;Baixa;Fechado;Carla;2
+TKT0041;2025-06-25 20:00:00;2025-06-27 06:00:00;34;Feedback;WhatsApp;Baixa;Fechado;Ana;4
+TKT0042;2025-03-12 01:00:00;2025-03-12 02:00:00;1;Reclamação;Telefone;Média;Em andamento;Bruno;4
+TKT0043;2025-05-22 22:00:00;2025-05-25 05:00:00;55;Feedback;E-mail;Baixa;Pendente;Bruno;5
+TKT0044;2025-01-10 11:00:00;2025-01-13 10:00:00;71;Dúvida;WhatsApp;Baixa;Em andamento;Carla;1
+TKT0045;2025-04-02 06:00:00;2025-04-03 14:00:00;32;Suporte técnico;Chat;Média;Em andamento;Eduarda;2
+TKT0046;2025-03-02 05:00:00;2025-03-03 04:00:00;23;Solicitação de serviço;E-mail;Baixa;Em andamento;Diego;2
+TKT0047;2025-03-10 05:00:00;2025-03-10 19:00:00;14;Solicitação de serviço;E-mail;Alta;Fechado;Bruno;4
+TKT0048;2025-03-31 09:00:00;2025-04-01 15:00:00;30;Dúvida;E-mail;Média;Em andamento;Carla;3
+TKT0049;2025-01-18 08:00:00;2025-01-20 05:00:00;45;Feedback;WhatsApp;Média;Pendente;Carla;1
+TKT0050;2025-01-30 08:00:00;2025-01-31 07:00:00;23;Feedback;Chat;Baixa;Pendente;Diego;3
+TKT0051;2025-03-22 13:00:00;2025-03-25 07:00:00;66;Suporte técnico;WhatsApp;Alta;Fechado;Carla;1
+TKT0052;2025-04-22 00:00:00;2025-04-24 19:00:00;67;Feedback;Telefone;Média;Fechado;Carla;5
+TKT0053;2025-03-22 21:00:00;2025-03-23 13:00:00;16;Reclamação;Portal;Média;Em andamento;Carla;4
+TKT0054;2025-06-28 09:00:00;2025-07-01 08:00:00;71;Dúvida;Telefone;Média;Em andamento;Bruno;5
+TKT0055;2025-05-26 09:00:00;2025-05-28 13:00:00;52;Feedback;E-mail;Média;Fechado;Diego;5
+TKT0056;2025-06-05 20:00:00;2025-06-07 14:00:00;42;Solicitação de serviço;WhatsApp;Média;Fechado;Eduarda;4
+TKT0057;2025-02-13 21:00:00;2025-02-14 08:00:00;11;Reclamação;Portal;Média;Pendente;Carla;1
+TKT0058;2025-03-02 21:00:00;2025-03-04 13:00:00;40;Dúvida;Telefone;Baixa;Fechado;Bruno;4
+TKT0059;2025-06-06 02:00:00;2025-06-08 13:00:00;59;Solicitação de serviço;Portal;Baixa;Pendente;Diego;4
+TKT0060;2025-04-13 07:00:00;2025-04-14 02:00:00;19;Suporte técnico;E-mail;Média;Fechado;Bruno;5
+TKT0061;2025-04-29 01:00:00;2025-05-02 01:00:00;72;Dúvida;E-mail;Média;Em andamento;Eduarda;5
+TKT0062;2025-06-02 10:00:00;2025-06-04 19:00:00;57;Feedback;Portal;Média;Pendente;Diego;2
+TKT0063;2025-05-02 14:00:00;2025-05-04 00:00:00;34;Dúvida;Chat;Média;Pendente;Diego;2
+TKT0064;2025-03-12 14:00:00;2025-03-13 00:00:00;10;Reclamação;Telefone;Baixa;Em andamento;Eduarda;1
+TKT0065;2025-02-05 04:00:00;2025-02-06 10:00:00;30;Solicitação de serviço;Telefone;Média;Fechado;Diego;4
+TKT0066;2025-03-26 17:00:00;2025-03-29 05:00:00;60;Solicitação de serviço;E-mail;Baixa;Em andamento;Diego;5
+TKT0067;2025-06-28 00:00:00;2025-06-30 01:00:00;49;Solicitação de serviço;E-mail;Alta;Em andamento;Diego;4
+TKT0068;2025-05-18 23:00:00;2025-05-21 21:00:00;70;Feedback;Telefone;Média;Em andamento;Diego;4
+TKT0069;2025-01-08 12:00:00;2025-01-10 08:00:00;44;Solicitação de serviço;Telefone;Alta;Fechado;Eduarda;5
+TKT0070;2025-01-07 12:00:00;2025-01-07 16:00:00;4;Suporte técnico;WhatsApp;Baixa;Em andamento;Bruno;1
+TKT0071;2025-03-08 12:00:00;2025-03-10 06:00:00;42;Dúvida;WhatsApp;Média;Em andamento;Carla;4
+TKT0072;2025-03-06 02:00:00;2025-03-08 15:00:00;61;Suporte técnico;Portal;Baixa;Em andamento;Bruno;1
+TKT0073;2025-06-16 01:00:00;2025-06-16 05:00:00;4;Dúvida;Telefone;Alta;Pendente;Bruno;2
+TKT0074;2025-02-02 15:00:00;2025-02-03 06:00:00;15;Feedback;Telefone;Média;Em andamento;Carla;2
+TKT0075;2025-06-05 19:00:00;2025-06-06 10:00:00;15;Dúvida;Chat;Baixa;Fechado;Carla;5
+TKT0076;2025-06-23 12:00:00;2025-06-25 15:00:00;51;Dúvida;E-mail;Média;Pendente;Bruno;1
+TKT0077;2025-06-28 09:00:00;2025-06-29 01:00:00;16;Feedback;E-mail;Média;Em andamento;Carla;1
+TKT0078;2025-05-10 20:00:00;2025-05-12 16:00:00;44;Suporte técnico;WhatsApp;Alta;Fechado;Diego;3
+TKT0079;2025-06-12 14:00:00;2025-06-13 10:00:00;20;Solicitação de serviço;Telefone;Média;Pendente;Carla;5
+TKT0080;2025-05-18 15:00:00;2025-05-21 03:00:00;60;Solicitação de serviço;Portal;Baixa;Fechado;Ana;3
+TKT0081;2025-04-26 07:00:00;2025-04-28 19:00:00;60;Feedback;Portal;Média;Em andamento;Ana;4
+TKT0082;2025-03-25 05:00:00;2025-03-27 20:00:00;63;Dúvida;Chat;Média;Em andamento;Carla;5
+TKT0083;2025-06-29 08:00:00;2025-07-02 08:00:00;72;Suporte técnico;Portal;Alta;Fechado;Bruno;4
+TKT0084;2025-05-06 17:00:00;2025-05-08 00:00:00;31;Solicitação de serviço;WhatsApp;Média;Fechado;Ana;3
+TKT0085;2025-02-26 12:00:00;2025-02-27 20:00:00;32;Reclamação;Portal;Média;Pendente;Eduarda;3
+TKT0086;2025-04-19 23:00:00;2025-04-22 22:00:00;71;Reclamação;Chat;Média;Em andamento;Carla;3
+TKT0087;2025-03-01 03:00:00;2025-03-02 04:00:00;25;Reclamação;E-mail;Média;Pendente;Bruno;2
+TKT0088;2025-02-25 23:00:00;2025-02-28 13:00:00;62;Reclamação;Portal;Alta;Pendente;Eduarda;3
+TKT0089;2025-01-26 06:00:00;2025-01-27 20:00:00;38;Dúvida;Chat;Baixa;Fechado;Eduarda;2
+TKT0090;2025-03-12 01:00:00;2025-03-12 08:00:00;7;Feedback;Chat;Média;Fechado;Diego;1
+TKT0091;2025-01-04 18:00:00;2025-01-06 07:00:00;37;Solicitação de serviço;WhatsApp;Média;Fechado;Ana;3
+TKT0092;2025-05-03 03:00:00;2025-05-03 12:00:00;9;Solicitação de serviço;WhatsApp;Baixa;Pendente;Ana;2
+TKT0093;2025-02-08 18:00:00;2025-02-10 09:00:00;39;Suporte técnico;Telefone;Baixa;Em andamento;Eduarda;5
+TKT0094;2025-06-08 07:00:00;2025-06-11 02:00:00;67;Solicitação de serviço;WhatsApp;Alta;Em andamento;Eduarda;4
+TKT0095;2025-03-20 18:00:00;2025-03-21 02:00:00;8;Feedback;E-mail;Alta;Fechado;Bruno;3
+TKT0096;2025-06-19 02:00:00;2025-06-19 23:00:00;21;Dúvida;Telefone;Média;Fechado;Ana;4
+TKT0097;2025-04-26 22:00:00;2025-04-29 11:00:00;61;Reclamação;E-mail;Baixa;Pendente;Carla;4
+TKT0098;2025-01-19 21:00:00;2025-01-21 03:00:00;30;Reclamação;Portal;Média;Fechado;Diego;1
+TKT0099;2025-05-20 07:00:00;2025-05-21 03:00:00;20;Reclamação;Telefone;Baixa;Fechado;Carla;5
+TKT0100;2025-05-26 09:00:00;2025-05-28 18:00:00;57;Suporte técnico;WhatsApp;Média;Pendente;Diego;3
