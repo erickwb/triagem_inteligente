@@ -1,0 +1,13 @@
+﻿# --- Git ignore básico para Python/FastAPI ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.env
+.env.*
+.cache/
+.idea/
+.vscode/
+.DS_Store
