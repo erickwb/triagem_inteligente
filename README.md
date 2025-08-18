@@ -125,4 +125,40 @@ python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
+> **OBS**: Para executar a API é necessário criar na raiz do projeto o arquivo `.env` contendo a variável de ambiente da OpenAI.  
+> Para fins de teste está sendo disponibilizada uma chave particular:**ACESSE A DOCUMENTAÇÂO PARA COPIAR A CHAVE**
+>
+> ```env
+> OPENAI_API_KEY=
+> ```
+
+---
+
+### Rodar o servidor
+```bash
+uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
+
+###Exemplo de Requisição
+{
+  "dataset_path": "tickets_atendimento.csv",
+  "text_column": "tipo_solicitacao",
+  "id_column": "ticket_id",
+  "canal_column": "canal",
+  "prioridade_column": "prioridade",
+  "categories": [
+    "Acesso/Senha",
+    "Falha de Sistema",
+    "Solicitação de Serviço",
+    "Informação/Dúvida",
+    "Infraestrutura/Rede"
+  ],
+  "max_rows": 20,
+  "temperature": 0.0,
+  "resume_locale": "pt-BR",
+  "output_csv_path": "saida_classificacao.csv",
+  "csv_sep": ";",
+  "csv_encoding": "utf-8-sig",
+  "openai_model": "gpt-4o-mini"
+}
+
 
